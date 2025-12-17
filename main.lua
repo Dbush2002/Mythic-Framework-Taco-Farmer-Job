@@ -3,7 +3,7 @@
 
 Targeting.Zones:AddBox("taco-clockinoff", "clock", vector3(14.10, -1605.88, 30.22), 0.6, 0.6, {
 		heading = 141,
-		debugPoly=true,
+		--debugPoly=true,
 		minZ = 29.72,
 		maxZ = 30.37
 	}, {
