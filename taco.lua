@@ -1,4 +1,5 @@
 ** ADD THIS WHOLE FILE TO 'mythic-restaurants/configs/restaurants'
+------------------------------------------------------------------
 
 table.insert(Config.Restaurants, {
     Name = "The Taco Farmer",
