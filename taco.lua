@@ -1,4 +1,4 @@
-** ADD THIS WHOLE FILE TO 'mythic-restaurants/configs/restaurants'
+** ADD THIS WHOLE FILE TO 'mythic-restaurants/configs/restaurants'**
 ------------------------------------------------------------------
 
 table.insert(Config.Restaurants, {
