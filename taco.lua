@@ -16,7 +16,7 @@ table.insert(Config.Restaurants, {
                     l = 1.2,
                     options = {
                         heading = 229,
-                        debugPoly=true,
+                        --debugPoly=true,
                         minZ = 29.41,
                         maxZ = 29.90
                     },
@@ -71,7 +71,7 @@ table.insert(Config.Restaurants, {
                     l = 1.5,
                     options = {
                         heading = 230,
-                        debugPoly=true,
+                        --debugPoly=true,
                         minZ = 29.12,
                         maxZ = 29.36
                     },
@@ -121,7 +121,7 @@ table.insert(Config.Restaurants, {
             length = 2.0,
             options = {
                 heading = 50,
-                debugPoly=true,
+                --debugPoly=true,
                 minZ = 28.36,
                 maxZ = 30.75
             },
@@ -142,7 +142,7 @@ table.insert(Config.Restaurants, {
             length = 0.5,
             options = {
                 heading = 229,
-                debugPoly=true,
+                --debugPoly=true,
                 minZ = 29.31,
                 maxZ = 29.46
             },
@@ -161,7 +161,7 @@ table.insert(Config.Restaurants, {
             length = 0.5,
             options = {
                 heading = 229,
-                debugPoly=true,
+                --debugPoly=true,
                 minZ = 29.31,
                 maxZ = 29.46
             },
@@ -180,7 +180,7 @@ table.insert(Config.Restaurants, {
             length = 0.5,
             options = {
                 heading = 52,
-                debugPoly=true,
+                --debugPoly=true,
                 minZ = 29.52,
                 maxZ = 29.60
             },
@@ -201,7 +201,7 @@ table.insert(Config.Restaurants, {
             width = 0.5,
             options = {
                 heading = 94,
-                debugPoly=true,
+                --debugPoly=true,
                 minZ = 28.60,
                 maxZ = 29.30
             },
